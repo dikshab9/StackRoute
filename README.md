@@ -1,4 +1,0 @@
-# StackRoute Assignment
-
-kuch 
-
