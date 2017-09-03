@@ -1,0 +1,148 @@
+.container_12{
+	width:100%;
+}
+
+.header{
+	background:black;
+	height:100px;
+	position:fixed;
+}
+
+.nav ul a{
+	color:lightgray;	
+	text-decoration:none;
+}
+
+.nav ul li{
+	margin-right:0px;
+	font-weight : bold;
+	display: inline;
+	font-size:20px;
+	font-family:Arial;
+	font-variant : small-caps;
+}
+
+.nav a:hover{
+	color:white;
+	font-size:25px;
+}
+
+.nav{
+	float:right;
+	margin-top:20px;
+	margin-right:10px;
+}
+
+.logo{
+	margin-top:1px;
+}
+
+.hero-image{
+    background-image: url(images/chickenroll.png);
+    height: 55%;
+    /*margin-top: 200px;
+    width: 100%;*/
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
+
+.hero-text{
+ text-align: center;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+
+.heading{
+   margin-top: 100px;
+    margin-left: 70px;
+}
+
+.items{
+    margin-top: 10px;
+    margin-left: 70px;
+    margin-right: 50px;
+    
+}
+
+footer{
+    background: black;
+    margin-top: 80px;
+   font-size: 15px;
+    height:300px;	
+}
+
+.def{
+    color: gray;
+    font-family: cursive;
+     margin-left: 80px;
+   
+}
+
+.end  a{
+    text-decoration: none;
+    color: red;
+    
+   
+}
+.end ul li{
+    list-style: none;
+    text-align: center;
+    margin-left: 30px;
+}
+
+.hr{
+   display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.wrap{
+    position: absolute;
+    background-image: url(images/backdrop.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    
+}
+/*form */
+.wrap1{
+    position: relative;
+    margin-left: 500px;
+    margin-top: 90px;
+    
+}
+/*about us*/
+.first
+	{
+      background-color: palevioletred;
+      padding: 15px;
+      margin-top: 150px;
+      margin-left: 200px
+		
+}
+
+.second{
+    margin-top: 150px;
+       }
+
+.third,.fourth,.second
+	{
+     background-color: palevioletred;
+     padding: 16px;
+     margin-bottom: 7px;
+		
+	}
